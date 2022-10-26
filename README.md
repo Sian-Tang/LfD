@@ -1,4 +1,4 @@
-# perceptron
+# Perceptron Algorithm (PLA)
 Perceptron algorithm based on Christianini &amp; Shawe-Taylor (2000)
 
 Perceptron Algorithm (PLA) based on Christianini & Shawe-Taylor (2000)
