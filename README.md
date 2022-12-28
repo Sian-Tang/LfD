@@ -1,23 +1,14 @@
-# Perceptron Algorithm (PLA)
+# Learning from Data
 
-#### Perceptron Algorithm (PLA) based on Christianini & Shawe-Taylor (2000)
+#### Motivated by Abu-Mostafa
 
-### Input:
-perceptron(X,Y, 𝜂 ,max_iter=300)
+### Pretext
+Learning from Data is a class given by Abu-Mostafa (check youtube). It is giving an introduction into the theoretical side of machine learning and its use of data.
 
-X is an array of np.array vectors
+We will encounter different concepts and algorithms that we need to implement. These will then be uploaded here on this repository. 
 
-Y is an np.array of label of all x vectors
+### Algorithms
+1. Perceptron
+2. Gradient Descent
+3. Linear Regression
 
-𝜂  is the learning rate
-
-max_iter is the maximum amount of iterations
-
-### Output:
-(w,b,k)
-
-w is a vector containing all the weights
-
-b is "tbd"
-
-knumber of times the weights were adjusted
